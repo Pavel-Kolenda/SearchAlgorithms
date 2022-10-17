@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/03 19:35:41.000.082,=D:\Колледж\АиОП\Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/06/03 19:57:50.000.265,D:\Колледж\АиОП\Delphi\Unit1.dfm=D:\Колледж\АиОП\Delphi\Main_Form.dfm</Transaction>
+    <Transaction>2022/06/03 19:57:50.000.265,D:\Колледж\АиОП\Delphi\Unit1.pas=D:\Колледж\АиОП\Delphi\Main_Form.pas</Transaction>
+    <Transaction>2022/06/03 19:58:16.000.257,D:\Колледж\АиОП\Delphi\Main_Form.pas=D:\Колледж\АиОП\Курсовой проект\Main_Form.pas</Transaction>
+    <Transaction>2022/06/03 19:58:16.000.257,D:\Колледж\АиОП\Delphi\Main_Form.dfm=D:\Колледж\АиОП\Курсовой проект\Main_Form.dfm</Transaction>
+    <Transaction>2022/06/03 19:58:51.000.337,D:\Колледж\АиОП\Delphi\Project1.dproj=D:\Колледж\АиОП\Курсовой проект\searchalghoritms.dproj</Transaction>
+    <Transaction>2022/06/08 11:22:50.000.754,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 11:23:05.000.383,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\SplashScreen.pas</Transaction>
+    <Transaction>2022/06/08 11:23:05.000.383,D:\Колледж\АиОП\Курсовой проект\Unit1.dfm=D:\Колледж\АиОП\Курсовой проект\SplashScreen.dfm</Transaction>
+    <Transaction>2022/06/08 11:26:25.000.606,D:\Колледж\АиОП\Курсовой проект\SplashScreen.pas=</Transaction>
+    <Transaction>2022/06/11 17:21:56.000.281,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 17:22:11.000.695,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\SplashForm.pas</Transaction>
+    <Transaction>2022/06/11 17:22:11.000.695,D:\Колледж\АиОП\Курсовой проект\Unit1.dfm=D:\Колледж\АиОП\Курсовой проект\SplashForm.dfm</Transaction>
+    <Transaction>2022/06/11 17:22:22.000.754,D:\Колледж\АиОП\Курсовой проект\SplashForm.dfm=D:\Колледж\АиОП\Курсовой проект\SplashFormUnit.dfm</Transaction>
+    <Transaction>2022/06/11 17:22:22.000.754,D:\Колледж\АиОП\Курсовой проект\SplashForm.pas=D:\Колледж\АиОП\Курсовой проект\SplashFormUnit.pas</Transaction>
+    <Transaction>2022/06/11 17:22:29.000.893,D:\Колледж\АиОП\Курсовой проект\Main_Form.pas=D:\Колледж\АиОП\Курсовой проект\Main_FormUnit.pas</Transaction>
+    <Transaction>2022/06/11 17:22:29.000.894,D:\Колледж\АиОП\Курсовой проект\Main_Form.dfm=D:\Колледж\АиОП\Курсовой проект\Main_FormUnit.dfm</Transaction>
+    <Transaction>2022/06/11 19:46:05.000.738,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 19:46:42.000.355,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\DiscribeFormUnit.pas</Transaction>
+    <Transaction>2022/06/11 19:46:42.000.355,D:\Колледж\АиОП\Курсовой проект\Unit1.dfm=D:\Колледж\АиОП\Курсовой проект\DiscribeFormUnit.dfm</Transaction>
+    <Transaction>2022/06/14 20:57:58.000.746,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 20:59:54.000.919,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\CodeFormUnit.pas</Transaction>
+    <Transaction>2022/06/14 20:59:54.000.919,D:\Колледж\АиОП\Курсовой проект\Unit1.dfm=D:\Колледж\АиОП\Курсовой проект\CodeFormUnit.dfm</Transaction>
+    <Transaction>2022/06/14 22:02:43.000.621,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 22:03:11.000.951,D:\Колледж\АиОП\Курсовой проект\AboutFormUnit.pas=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/14 22:03:11.000.951,D:\Колледж\АиОП\Курсовой проект\AboutFormUnit.dfm=D:\Колледж\АиОП\Курсовой проект\Unit1.dfm</Transaction>
+    <Transaction>2022/06/15 13:17:38.000.964,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/15 13:17:56.000.269,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\DesignUnit.pas</Transaction>
+    <Transaction>2022/06/19 14:04:49.000.643,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/19 14:06:39.000.913,D:\Колледж\АиОП\Курсовой проект\DemonstrationFormUnit.dfm=D:\Колледж\АиОП\Курсовой проект\Unit1.dfm</Transaction>
+    <Transaction>2022/06/19 14:06:39.000.913,D:\Колледж\АиОП\Курсовой проект\DemonstrationFormUnit.pas=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 18:31:47.000.873,=D:\Колледж\АиОП\Курсовой проект\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 18:49:43.000.993,D:\Колледж\АиОП\Курсовой проект\Unit1.pas=D:\Колледж\АиОП\Курсовой проект\SearchUnit.pas</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="AboutFormUnit.pas"/>
+    <File Path="AboutFormUnit.dfm"/>
+    <File Path="CodeFormUnit.pas"/>
+    <File Path="CodeFormUnit.dfm"/>
+    <File Path="DemonstrationFormUnit.pas"/>
+    <File Path="DemonstrationFormUnit.dfm"/>
+    <File Path="DesignUnit.pas"/>
+    <File Path="DiscribeFormUnit.pas"/>
+    <File Path="DiscribeFormUnit.dfm"/>
+    <File Path="Main_FormUnit.pas"/>
+    <File Path="Main_FormUnit.dfm"/>
+    <File Path="SearchUnit.pas"/>
+    <File Path="SplashFormUnit.pas"/>
+    <File Path="SplashFormUnit.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
